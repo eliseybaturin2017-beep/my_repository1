@@ -6,7 +6,7 @@ Cube_Animator.top = 73
 Cube_Animator.x = 10
 Cube_Animator.y = 10
 # создание куба
-Cube_Animator.cube() # или Cube_Animator.cube(10, 10, 73, 73, '.')
+Cube_Animator.cube('.') # или Cube_Animator.cube(10, 10, 73, 73, '.')
 
 # анимации для них создание куба необязательно потому что он и так создается
 # Cube_Animator.animatePulseZoomV1(2) в версии один всегда можно указать сколько раз повторить
